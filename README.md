@@ -4,6 +4,8 @@ wassssssup im Taha
 
 17 year old Computer Science Student🖥️  
 
+Beginner programmer👨‍💻
+
 Iraqi 313⚔️
  
 ## Things im learning👨‍🏫
