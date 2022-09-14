@@ -1,14 +1,14 @@
-# HELLO HUMANS😎
+# HELLO 
 
 wassssssup im Taha 
 
-17 year old Computer Science Student🖥️  
+- 17 year old Computer Science Student
 
-Beginner programmer👨‍💻
+- Beginner programmer
 
-Iraqi 313⚔️
+- Iraqi 313
  
-## Things im learning👨‍🏫
+## Things im learning
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -23,7 +23,7 @@ Iraqi 313⚔️
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## Other things im interested in🤔
+## Other things im interested in
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
