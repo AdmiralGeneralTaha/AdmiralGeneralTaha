@@ -41,5 +41,5 @@ An Islamic iOS application targetted at the Shia community, built in Swift.
 Feel free to reach out to me for anything through any of the below:
 
 - Email: [tahaa@mail.com](mailto:your-email)
-- Discord: [Taha.#0313](https://discord.com)
+- Discord: [taha313](https://discord.com)
 - Clippy: [Taha.#0313](https://clippy.link/taha)
